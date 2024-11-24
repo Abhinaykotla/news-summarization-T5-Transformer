@@ -35,9 +35,6 @@ Model accuracy of Encoder & Decoder using BiLSTM and Keras embedding layer was 4
 
 ### Training the Model
 
-# Note : 
-- Download the Data set from the following link: https://github.com/Abhinaykotla/news-summarization-T5-Transformer
-
 1. **Fine-Tuning T5 Transformer**: Use the `transformers-summarization-t5.ipynb` notebook to fine-tune the T5 model on the news summary dataset.
 2. **Training LSTM Model**: Use the `LSTM_model.ipynb` notebook to train the LSTM model for summarization. This notebook includes data preprocessing, model training, and validation steps.
 
